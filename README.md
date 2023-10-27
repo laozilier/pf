@@ -10,5 +10,5 @@ mysql 5.7
 客户端client
 cocos creator 1.10.2
 
-网页登录web
+网页注册下载webreg
 vue2 Hbuilder
