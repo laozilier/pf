@@ -4,15 +4,15 @@
 			<view class="top">注册下载</view>
 			<u-form :model="form" ref="uForm">
 				<u-form-item label="手机号码" label-width="140">
-					<u-input v-model="form.mobile" placeholder="请输入手机号码" 
-					:custom-style="inputStyle" border type="number"/>
+					<u-input v-model="form.mobile" placeholder="请输入手机号码" :custom-style="inputStyle" border
+						type="number" />
 				</u-form-item>
 				<u-form-item label="验 证 码" label-width="140">
-					<u-input v-model="form.code" placeholder="请输入验证码" 
-					:custom-style="inputStyle" border type="number"/>
-					<u-button slot="right" type="success" size="mini" :custom-style="codeStyle" @click="getCode">{{codeTips}}</u-button>
+					<u-input v-model="form.code" placeholder="请输入验证码" :custom-style="inputStyle" border type="number" />
+					<u-button slot="right" type="success" size="mini" :custom-style="codeStyle"
+						@click="getCode">{{codeTips}}</u-button>
 				</u-form-item>
-				<view class="" style="height: 28rpx;"/>
+				<view class="" style="height: 28rpx;" />
 				<u-form-item label="邀 请 人" label-width="140">
 					{{ form.inviteCode }}
 				</u-form-item>
@@ -50,8 +50,11 @@
 					'height': '84rpx',
 				},
 				codeTips: '获取验证码',
-				form: { mobile: "18569071923" },
-				reged: false
+				form: {
+					mobile: ""
+				},
+				reged: false,
+				downUrl: "这里是下载地址"
 			}
 		},
 
@@ -61,14 +64,35 @@
 
 		methods: {
 			downapp() {
-				this.$api.msg("这里是下载地址");
+				this.$api.msg("这里是下载地址，可以复制");
+				this.copy();
+			},
+
+			copy() {
+				this.h5Copy(this.downUrl);
+			},
+			h5Copy(content) {
+				if (!document.queryCommandSupported('copy')) {
+					// 不支持
+					return false
+				}
+
+				let textarea = document.createElement("textarea")
+				textarea.value = content
+				textarea.readOnly = "readOnly"
+				document.body.appendChild(textarea)
+				textarea.select() // 选择对象
+				textarea.setSelectionRange(0, content.length) //核心
+				let result = document.execCommand("copy") // 执行浏览器复制命令
+				textarea.remove()
+				return result
 			},
 
 			submit() {
 				if (!this.$u.test.mobile(this.form.mobile)) {
 					return this.$api.msg('请输入手机号码');
 				}
-				
+
 				if (!this.form.code || this.form.code.length != 6) {
 					return this.$api.msg('请输入验证码');
 				}
@@ -81,13 +105,13 @@
 					this.$api.msg(msg);
 				})
 			},
-			
+
 			getCode() {
 				if (!this.$u.test.mobile(this.form.mobile)) {
 					this.$api.msg('请先输入正确手机号')
 					return;
 				}
-				
+
 				if (this.$refs.uCode.canGetCode) {
 					uni.showLoading({
 						title: '正在获取验证码',
@@ -102,7 +126,10 @@
 								this.$api.msg('验证码已发送');
 								this.$refs.uCode.start();
 							}, 1000);
-							if (!!res) this.form.code = res.code;
+							if (!!res) {
+								this.form.code = res.code || "";
+								this.downUrl = res.downUrl || "";
+							}
 						},
 						(msg) => {
 							this.$api.msg(msg);
@@ -112,7 +139,7 @@
 					this.$api.msg('倒计时结束后再发送');
 				}
 			},
-			
+
 			codeChange(text) {
 				this.codeTips = text;
 			},
