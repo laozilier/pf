@@ -1,0 +1,1 @@
+/** * Created by apple on 2017/9/18. */const hdw = require('../../../../common/handlerMiddleWare');class HallHandler {    constructor(app) {        this.app = app;    }    async testHall(params, session, next) {        next(null, {code: STATE_CODE.OK});    }}module.exports = function (app) {    return new HallHandler(app);};

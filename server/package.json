@@ -1,0 +1,22 @@
+{
+    "name": "hdw",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "@alicloud/pop-core": "^1.7.9",
+        "bluebird": "^3.5.2",
+        "koa": "^2.12.0",
+        "koa-router": "^8.0.8",
+        "koa2-cors": "^2.0.6",
+        "moment": "^2.22.2",
+        "mysql": "^2.18.1",
+        "pomelo": "^2.2.5",
+        "pomelo-http": "0.0.8",
+        "redis": "^2.8.0",
+        "request": "^2.83.0",
+        "serve-static": "^1.13.1",
+        "tinytim": "^0.1.1",
+        "tracer": "^0.8.11",
+        "xml2js": "^0.4.19"
+    }
+}

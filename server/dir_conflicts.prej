@@ -1,0 +1,11 @@
+Trying to change property 'svn:ignore'
+but the property has already been locally changed to a different value.
+<<<<<<< (local property value)
+node_modules
+logs
+=======
+.git
+.github
+>>>>>>> (incoming property value)
+.idea
+package-lock.json

@@ -1,0 +1,9 @@
+{
+  "gameBegin" : {
+    "repeated uInt32 uids" : 1
+  },
+
+  "gameStatus" : {
+    "required uInt32 status" : 1
+  }
+}

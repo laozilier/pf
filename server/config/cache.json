@@ -1,0 +1,44 @@
+{
+  "Users": {
+    "tableName": "t_users",
+    "keys": [
+      "uid"
+    ],
+    "filters": []
+  },
+  "Club": {
+    "tableName": "t_club",
+    "keys": [
+      "id"
+    ],
+    "filters": []
+  },
+  "ClubMember": {
+    "tableName": "t_club_member",
+    "keys": [
+    ],
+    "filters": ["uid"]
+  },
+  "ClubMsg": {
+    "tableName": "t_club_msg",
+    "keys": [
+      "id"
+    ],
+    "filters": []
+  },
+  "ClubRooms": {
+    "tableName": "t_club_rooms",
+    "keys": [
+      "id"
+    ],
+    "filters": ["cid"]
+  },
+  "History": {
+    "tableName": "t_history",
+    "keys": [
+        "id"
+    ],
+    "filters": [],
+    "ttl": 172800
+  }
+}
