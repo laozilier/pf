@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "niushu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 30
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.4,
+          "curve": [
+            0.89,
+            2.48,
+            0.6,
+            -0.11
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": 1
+        },
+        {
+          "frame": 0.4,
+          "value": 1,
+          "curve": "cubicIn"
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.4,
+          "curve": [
+            1,
+            2.69,
+            0.53,
+            -0.16
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": 1
+        },
+        {
+          "frame": 0.4,
+          "value": 1
+        },
+        {
+          "frame": 0.4,
+          "value": 1,
+          "curve": "cubicIn"
+        }
+      ]
+    }
+  },
+  "events": []
+}

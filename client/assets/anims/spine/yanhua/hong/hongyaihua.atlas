@@ -1,0 +1,160 @@
+
+hongyaihua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: false
+  xy: 2, 434
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a02
+  rotate: false
+  xy: 2, 362
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: false
+  xy: 116, 434
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 2, 290
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: false
+  xy: 116, 362
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: false
+  xy: 230, 434
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: false
+  xy: 2, 218
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: false
+  xy: 116, 290
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: false
+  xy: 230, 362
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a10
+  rotate: false
+  xy: 344, 434
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a11
+  rotate: false
+  xy: 2, 146
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a12
+  rotate: false
+  xy: 116, 218
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a13
+  rotate: false
+  xy: 230, 290
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a14
+  rotate: false
+  xy: 344, 362
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a15
+  rotate: false
+  xy: 2, 74
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a16
+  rotate: false
+  xy: 116, 146
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a17
+  rotate: false
+  xy: 230, 218
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a18
+  rotate: false
+  xy: 344, 290
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a19
+  rotate: false
+  xy: 2, 2
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a20
+  rotate: false
+  xy: 116, 74
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a21
+  rotate: false
+  xy: 230, 146
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+images/a22
+  rotate: false
+  xy: 344, 218
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1

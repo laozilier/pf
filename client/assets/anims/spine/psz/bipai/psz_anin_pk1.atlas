@@ -1,0 +1,41 @@
+
+psz_anin_pk1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pk-2
+  rotate: false
+  xy: 1, 1
+  size: 667, 327
+  orig: 667, 327
+  offset: 0, 0
+  index: -1
+pk-1
+  rotate: false
+  xy: 1, 330
+  size: 663, 307
+  orig: 663, 307
+  offset: 0, 0
+  index: -1
+dui
+  rotate: false
+  xy: 666, 330
+  size: 195, 162
+  orig: 195, 162
+  offset: 0, 0
+  index: -1
+jue
+  rotate: false
+  xy: 670, 1
+  size: 188, 163
+  orig: 188, 163
+  offset: 0, 0
+  index: -1
+xinxin
+  rotate: false
+  xy: 860, 1
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

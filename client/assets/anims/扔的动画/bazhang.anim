@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bazhang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.8571428571428572,
+  "sample": 35,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 6
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.42857142857142855,
+          "value": 255
+        },
+        {
+          "frame": 1.8571428571428572,
+          "value": 0
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.5
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c8b7c7a8-cc7a-4830-bb8f-704a08b7d1ed"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "a07ca50f-319a-45d5-99ab-23fe49f440ac"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "212c5d4c-7f05-4615-94ec-46ebba43a0b8"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "d1e790f6-ae30-4446-94e6-67a934d9fc18"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

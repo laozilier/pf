@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c27cbdcf-775b-43a6-bdca-cc993aea59cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_kuang": {
+      "ver": "1.0.3",
+      "uuid": "d8229ab5-d1cb-4155-9a9f-37e1d3d3efd5",
+      "rawTextureUuid": "c27cbdcf-775b-43a6-bdca-cc993aea59cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 83,
+      "height": 83,
+      "rawWidth": 83,
+      "rawHeight": 83,
+      "borderTop": 24,
+      "borderBottom": 24,
+      "borderLeft": 24,
+      "borderRight": 24,
+      "subMetas": {}
+    }
+  }
+}

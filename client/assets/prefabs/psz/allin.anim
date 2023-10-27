@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "allin",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -400
+            },
+            {
+              "frame": 0.125,
+              "value": -100
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.125,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.875,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 400
+            },
+            {
+              "frame": 0.125,
+              "value": 100
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.125,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.875,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

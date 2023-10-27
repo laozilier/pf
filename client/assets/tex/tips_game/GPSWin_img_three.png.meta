@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c0124894-d5fe-4f8f-b1fa-7c1c5d7536d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GPSWin_img_three": {
+      "ver": "1.0.3",
+      "uuid": "11fe240f-58cd-4d43-ae63-3c33ad62f511",
+      "rawTextureUuid": "c0124894-d5fe-4f8f-b1fa-7c1c5d7536d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 104,
+      "rawWidth": 300,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

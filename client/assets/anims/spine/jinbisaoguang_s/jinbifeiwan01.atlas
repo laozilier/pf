@@ -1,0 +1,41 @@
+
+jinbifeiwan01.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a
+  rotate: true
+  xy: 169, 19
+  size: 95, 148
+  orig: 95, 148
+  offset: 0, 0
+  index: -1
+images/b
+  rotate: true
+  xy: 2, 2
+  size: 112, 165
+  orig: 112, 165
+  offset: 0, 0
+  index: -1
+images/c
+  rotate: false
+  xy: 319, 76
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+images/e
+  rotate: true
+  xy: 319, 22
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+images/f
+  rotate: false
+  xy: 441, 77
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1

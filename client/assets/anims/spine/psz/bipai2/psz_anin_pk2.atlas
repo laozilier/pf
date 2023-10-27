@@ -1,0 +1,48 @@
+
+psz_anin_pk2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx-g2
+  rotate: false
+  xy: 1, 213
+  size: 491, 31
+  orig: 491, 31
+  offset: 0, 0
+  index: -1
+guangji2
+  rotate: false
+  xy: 494, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 1, 1
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+gungban
+  rotate: false
+  xy: 213, 95
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+xinxin
+  rotate: false
+  xy: 213, 138
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+jiguang2
+  rotate: false
+  xy: 213, 1
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

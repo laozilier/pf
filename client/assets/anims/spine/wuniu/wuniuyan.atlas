@@ -1,0 +1,132 @@
+
+wuniuyan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/r01
+  rotate: false
+  xy: 2, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r02
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r03
+  rotate: false
+  xy: 54, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r04
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r05
+  rotate: false
+  xy: 106, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r06
+  rotate: false
+  xy: 106, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r07
+  rotate: false
+  xy: 158, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r08
+  rotate: false
+  xy: 158, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r09
+  rotate: false
+  xy: 210, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r10
+  rotate: false
+  xy: 210, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r11
+  rotate: false
+  xy: 262, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r12
+  rotate: false
+  xy: 262, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r13
+  rotate: false
+  xy: 314, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r14
+  rotate: false
+  xy: 314, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r15
+  rotate: false
+  xy: 366, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r16
+  rotate: false
+  xy: 366, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r17
+  rotate: false
+  xy: 418, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/r18
+  rotate: false
+  xy: 418, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

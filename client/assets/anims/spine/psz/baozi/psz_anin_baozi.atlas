@@ -1,0 +1,244 @@
+
+psz_anin_baozi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz-png_00017
+  rotate: false
+  xy: 313, 1441
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00006
+  rotate: false
+  xy: 982, 1554
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00005
+  rotate: false
+  xy: 326, 453
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00004
+  rotate: false
+  xy: 326, 566
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00003
+  rotate: false
+  xy: 995, 453
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00014
+  rotate: false
+  xy: 326, 227
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00000
+  rotate: false
+  xy: 326, 1
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00002
+  rotate: false
+  xy: 326, 340
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00015
+  rotate: false
+  xy: 307, 1736
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00012
+  rotate: false
+  xy: 995, 340
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00016
+  rotate: false
+  xy: 995, 1
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00009
+  rotate: false
+  xy: 313, 1554
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00008
+  rotate: false
+  xy: 982, 1441
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00018
+  rotate: false
+  xy: 976, 1736
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00013
+  rotate: false
+  xy: 995, 227
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00011
+  rotate: false
+  xy: 995, 114
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00007
+  rotate: false
+  xy: 326, 114
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00010
+  rotate: false
+  xy: 976, 1849
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+bz-png_00001
+  rotate: false
+  xy: 307, 1849
+  size: 667, 111
+  orig: 667, 111
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1864, 1886
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 1645, 1853
+  size: 217, 83
+  orig: 217, 83
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1864, 1895
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1864, 1892
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1864, 1889
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+baozi-zi
+  rotate: false
+  xy: 1864, 1853
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+tx-g2
+  rotate: false
+  xy: 1645, 1938
+  size: 351, 23
+  orig: 351, 23
+  offset: 0, 0
+  index: -1
+tx-g1
+  rotate: false
+  xy: 313, 1667
+  size: 560, 55
+  orig: 560, 55
+  offset: 0, 0
+  index: -1
+img/dian-png_00007-1
+  rotate: false
+  xy: 1645, 1667
+  size: 251, 184
+  orig: 251, 184
+  offset: 0, 0
+  index: -1
+img/dian-png_00004-1
+  rotate: false
+  xy: 1, 1132
+  size: 323, 307
+  orig: 323, 307
+  offset: 0, 0
+  index: -1
+dian-png_00003
+  rotate: false
+  xy: 1, 378
+  size: 323, 375
+  orig: 323, 375
+  offset: 0, 0
+  index: -1
+img/dian-png_00006-1
+  rotate: false
+  xy: 1, 1736
+  size: 304, 246
+  orig: 304, 246
+  offset: 0, 0
+  index: -1
+img/dian-png_00005-1
+  rotate: false
+  xy: 1, 1441
+  size: 310, 293
+  orig: 310, 293
+  offset: 0, 0
+  index: -1
+dian-png_00001
+  rotate: false
+  xy: 1, 1
+  size: 323, 375
+  orig: 323, 375
+  offset: 0, 0
+  index: -1
+dian-png_00002
+  rotate: false
+  xy: 1, 755
+  size: 323, 375
+  orig: 323, 375
+  offset: 0, 0
+  index: -1

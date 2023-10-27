@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "df6157d3-fe48-499d-b8a8-f128a12766bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dealerWithdrawList_status2": {
+      "ver": "1.0.3",
+      "uuid": "ce98db02-cae6-4ec7-93b4-709b7295538e",
+      "rawTextureUuid": "df6157d3-fe48-499d-b8a8-f128a12766bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 38,
+      "rawWidth": 41,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

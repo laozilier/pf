@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>BZ-00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,0},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,0},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{660,0},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,170},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,390},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,610},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,830},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,170},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,390},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,610},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,830},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,170},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,390},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{340,610},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,830},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{660,170},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+			<key>BZ-00017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{660,340},{220,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,170}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>baoza.png</string>
+			<key>realTextureFileName</key>
+			<string>baoza.png</string>
+			<key>size</key>
+			<string>{880,1000}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>880</integer>
+			<key>height</key>
+			<integer>1000</integer>
+		</dict>
+	</dict>
+</plist>

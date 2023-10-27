@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "36aba761-0174-49b0-a073-4f40480cdbb4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kelian0001": {
+      "ver": "1.0.3",
+      "uuid": "f28e7cab-6589-4148-853d-0743f653f517",
+      "rawTextureUuid": "36aba761-0174-49b0-a073-4f40480cdbb4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 5,
+      "width": 86,
+      "height": 90,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

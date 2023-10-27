@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "18ed77df-8275-4884-adec-8ec7383e74d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chitips": {
+      "ver": "1.0.3",
+      "uuid": "44e455ff-1828-4d9f-b048-95996f7216d0",
+      "rawTextureUuid": "18ed77df-8275-4884-adec-8ec7383e74d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 137,
+      "rawWidth": 102,
+      "rawHeight": 137,
+      "borderTop": 40,
+      "borderBottom": 40,
+      "borderLeft": 40,
+      "borderRight": 40,
+      "subMetas": {}
+    }
+  }
+}

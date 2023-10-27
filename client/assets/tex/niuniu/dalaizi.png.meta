@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b669eccd-67e3-4248-8c71-26b6e429e085",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dalaizi": {
+      "ver": "1.0.3",
+      "uuid": "4ec45a1a-7501-45f7-bf38-bce9b18229bf",
+      "rawTextureUuid": "b669eccd-67e3-4248-8c71-26b6e429e085",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 110,
+      "height": 210,
+      "rawWidth": 110,
+      "rawHeight": 210,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

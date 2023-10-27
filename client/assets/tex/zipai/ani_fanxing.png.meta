@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "3995338a-d5b7-49e9-a188-892d711188c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ani_fanxing": {
+      "ver": "1.0.3",
+      "uuid": "aeb3073d-7451-4d6b-9c3f-a787ed7d7ec8",
+      "rawTextureUuid": "3995338a-d5b7-49e9-a188-892d711188c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -11,
+      "trimX": 19,
+      "trimY": 63,
+      "width": 165,
+      "height": 85,
+      "rawWidth": 198,
+      "rawHeight": 189,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

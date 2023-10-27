@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bianbian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.7142857142857142,
+  "sample": 35,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 3
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 48
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 1.7142857142857142,
+          "value": 0
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f741a2a-5af3-452b-a260-8b4851bdc1a6"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "0ef7ae6b-0252-4cc7-924d-9832754a4bcb"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "68146987-9078-4a8a-b4ab-2a1077e9865f"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "f19454a3-3b5b-431e-bd8a-c25280dbeaa6"
+            }
+          },
+          {
+            "frame": 0.5714285714285714,
+            "value": {
+              "__uuid__": "f19454a3-3b5b-431e-bd8a-c25280dbeaa6"
+            }
+          },
+          {
+            "frame": 0.7142857142857143,
+            "value": {
+              "__uuid__": "5e75b256-ad7b-43f0-963f-46f59323a417"
+            }
+          },
+          {
+            "frame": 0.8571428571428571,
+            "value": {
+              "__uuid__": "79b2b5ed-698e-40a0-820e-f1f3a2c18252"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

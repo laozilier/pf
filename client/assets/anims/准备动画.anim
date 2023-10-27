@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "准备动画",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "zhunbeibiaoshi": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": "circIn"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3,
+              "curve": "circIn"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50,
+              "curve": "circIn"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "touxiangzhezhao": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "touxiangwaifangguang": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

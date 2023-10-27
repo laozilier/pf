@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tongChiAnimationClip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "73c5ffbd-6db1-4d3a-86ab-c342a6445eb1"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "73c5ffbd-6db1-4d3a-86ab-c342a6445eb1"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "73c5ffbd-6db1-4d3a-86ab-c342a6445eb1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "73c5ffbd-6db1-4d3a-86ab-c342a6445eb1"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "73c5ffbd-6db1-4d3a-86ab-c342a6445eb1"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "frame": 0.3,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.4,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.3,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 1.1,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

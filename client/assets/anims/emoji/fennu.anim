@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fennu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.13333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "74885e9d-0ba7-4c31-ad8a-2f5a2b4fc6e7"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "74885e9d-0ba7-4c31-ad8a-2f5a2b4fc6e7"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ec7d16ec-e9ab-4bde-aded-feb81e933c40"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "ec7d16ec-e9ab-4bde-aded-feb81e933c40"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

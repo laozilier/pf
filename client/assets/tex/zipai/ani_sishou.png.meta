@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "76c07bfa-9469-419e-b734-f2fb93319843",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ani_sishou": {
+      "ver": "1.0.3",
+      "uuid": "06dd6e4f-c006-470f-8743-43cbd57a214b",
+      "rawTextureUuid": "76c07bfa-9469-419e-b734-f2fb93319843",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 95,
+      "rawWidth": 144,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
