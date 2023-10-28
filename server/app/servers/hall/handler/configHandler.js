@@ -16,7 +16,7 @@ class ConfigHandler{
     async inviteUrl(params, session, next){
         let url = await DBTOOLS.getInviteUrl();
         //next(null, {code: STATE_CODE.OK, result: `${url}/bind${Date.now()}?inviteCode=${session.uid}`});
-        next(null, {code: STATE_CODE.OK, result: `${url}?inviteCode=${session.uid}`});
+        next(null, {code: STATE_CODE.OK, result: `${url}${Date.now()}?inviteCode=${session.uid}`});
     }
 
     async getKefuUrl(params, session, next){
