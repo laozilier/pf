@@ -7,16 +7,16 @@ class MsgSender {
     constructor() {
         //初始化短信网关参数
         this.client = new Core({
-            accessKeyId: "LTAI4G5bo8ucpJzuM5AJEcre",
-            accessKeySecret: "IZDdVfPoAy9PoambFNJ7hIE3oytlbA",
+            accessKeyId: "",
+            accessKeySecret: "",
             endpoint: "https://dysmsapi.aliyuncs.com",
             apiVersion: "2017-05-25",
         });
 
         this.params = {
             PhoneNumbers: "",
-            SignName: "不可少集团",
-            TemplateCode: "SMS_216841620",
+            SignName: "",
+            TemplateCode: "",
             TemplateParam: "",
         };
     }
